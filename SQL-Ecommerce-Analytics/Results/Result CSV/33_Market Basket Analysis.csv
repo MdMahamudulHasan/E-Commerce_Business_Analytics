@@ -1,0 +1,21 @@
+category_a,category_b,pair_count,support_pct,confidence_a_to_b_pct,confidence_b_to_a_pct
+Fashion Hoodies & Sweatshirts,Jeans,564,0.6,6.59,6.02
+Jeans,Sweaters,535,0.57,5.71,6.61
+Jeans,Tops & Tees,529,0.56,5.64,6.1
+Jeans,Swim,504,0.54,5.38,6.11
+Intimates,Maternity,500,0.53,5.26,13.29
+Swim,Tops & Tees,483,0.51,5.85,5.57
+Jeans,Sleep & Lounge,475,0.51,5.07,5.84
+Fashion Hoodies & Sweatshirts,Shorts,481,0.51,5.62,5.83
+Fashion Hoodies & Sweatshirts,Sweaters,475,0.51,5.55,5.86
+Jeans,Shorts,481,0.51,5.13,5.83
+Sweaters,Tops & Tees,482,0.51,5.95,5.55
+Shorts,Tops & Tees,467,0.5,5.66,5.38
+Fashion Hoodies & Sweatshirts,Tops & Tees,467,0.5,5.46,5.38
+Dresses,Intimates,466,0.5,11.61,4.9
+Sleep & Lounge,Sweaters,466,0.5,5.73,5.75
+Intimates,Swim,470,0.5,4.94,5.7
+Sleep & Lounge,Tops & Tees,463,0.49,5.69,5.33
+Fashion Hoodies & Sweatshirts,Intimates,458,0.49,5.36,4.82
+Shorts,Sweaters,459,0.49,5.56,5.67
+Shorts,Swim,462,0.49,5.6,5.6

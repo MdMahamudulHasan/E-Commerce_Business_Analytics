@@ -1,0 +1,6 @@
+session_bucket,session_count,avg_events,avg_duration_min
+15+ min,359439,4.2,776.1
+5-15 min,145552,4.0,8.6
+Single Event (Bounce),129353,1.0,0.0
+1-5 min,46757,3.8,3.3
+Under 1 min,62,5.0,0.8

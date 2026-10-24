@@ -1,0 +1,4 @@
+delivery_bucket,order_count,avg_days_to_ship,avg_days_in_transit,avg_total_days,pct_of_orders,sla_breach_count
+1_Within_2_Days,4296,0.7,0.7,1.3,13.81,0
+2_3_to_5_Days,17662,1.4,2.1,3.6,56.79,0
+3_5_to_10_Days,9141,2.0,4.0,6.0,29.39,971
