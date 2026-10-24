@@ -27,24 +27,43 @@ A comprehensive end-to-end business analytics project on **TheLook eCommerce** d
 
 ## 🏗️ Repository Structure
 E-Commerce Analytics/
+
 │
+
 ├── 📓 Python E-Commerce Analytics/
+
 │ └── Python_E_Commerce_Analytics.ipynb ← Full Colab Notebook (40 cells)
+
 │
+
 ├── 📁 SQL-Ecommerce-Analytics/
+
 │ ├── 📁 Queries/
+
 │ │ ├── 01_Revenue Analysis/ ← Q1-Q5
+
 │ │ ├── 02_Customer Analytics/ ← Q6-Q10
+
 │ │ ├── 03_Product Analytics/ ← Q11-Q15
+
 │ │ ├── 04_Funnel & Events Analysis/ ← Q16-Q20
+
 │ │ ├── 05_Gap & Streak Analysis/ ← Q21-Q25
+
 │ │ ├── 06_Ranking & Window Functions/ ← Q26-Q30
+
 │ │ └── 07_Advanced Business Questions/ ← Q31-Q35
+
 │ │
+
 │ └── 📁 Results/
+
 │ ├── Result CSV/ ← 35 query output files
+
 │ └── Result Visualization/ ← Charts & dashboards (PDF)
+
 │
+
 └── README.md
 
 
@@ -53,17 +72,29 @@ E-Commerce Analytics/
 ## 📊 Dataset Schema
 
 users ─────────────── id, name, email, age, gender, city, state, country, traffic_source
+
 │
+
 ├── orders ──────── order_id, user_id, status, gender, created/shipped/delivered/returned_at
+
 │ │
+
 │ └── order_items ── id, order_id, product_id, inventory_item_id, status, sale_price
+
 │ │
+
 │ ├── products ── id, cost, category, name, brand, retail_price, department, sku
+
 │ │
+
 │ └── inventory_items ── id, product_id, cost, sold_at, product_category/brand/name
+
 │
+
 ├── events ──────── id, user_id, session_id, event_type, uri, browser, traffic_source
+
 │
+
 └── distribution_centers ── id, name, latitude, longitude
 
 
